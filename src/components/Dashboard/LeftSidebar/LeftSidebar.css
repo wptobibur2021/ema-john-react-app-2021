@@ -1,0 +1,17 @@
+ul.leftMenuItems {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+.leftSidebarMenuBar {
+    background-color: #fff;
+    padding: 25px;
+    -webkit-box-shadow: 0px 0px 30px 0px rgba(124,124,124,0.54);
+    box-shadow: 0px 0px 30px 0px rgba(124,124,124,0.54);
+}
+li.leftMenuItem {
+    border-bottom: 1px solid #ff9b0640;
+    padding: 5px 0px;
+    cursor: pointer;
+}

@@ -1,0 +1,37 @@
+.login-form-sections {
+    background-color: #e9ecef;
+    padding: 30px 30px;
+}
+.form-control:focus {
+    border-color: #ced4da !important;
+    outline: none;
+    box-shadow: none !important;
+}
+.btn-check:focus+.btn-primary, .btn-primary:focus {
+    color: #fff;
+    background-color: #ffb607;
+    border-color: #ffb607;
+    box-shadow: none !important;
+}
+img.logoLoginImg {
+    width: 120px;
+    text-align: center;
+}
+
+.login-form-sections {
+    justify-content: center;
+    border-radius: 5px;
+}
+
+.login-page-sectins {
+    padding: 50px;
+    text-align: center;
+}
+.logo-login {
+    text-align: center;
+    margin-bottom: 30px;
+}
+.thirdPartiLoginSystem.mt-3 {
+    display: flex;
+    justify-content: space-evenly;
+}
